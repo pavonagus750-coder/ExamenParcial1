@@ -1,0 +1,64 @@
+~$D Project idea.docx
+accept.txt
+Captura de pantalla 2024-09-26 a la(s) 10.04.36 p.m..png
+Captura de pantalla 2024-09-26 a la(s) 10.04.40 p.m..png
+Captura de pantalla 2024-11-16 a la(s) 12.34.42 a.m..png
+Captura de pantalla 2025-02-25 a la(s) 6.39.23 a.m..png
+Captura de pantalla 2025-02-28 a la(s) 11.45.01 a.m..png
+Captura de pantalla 2025-05-20 a la(s) 7.13.27 a.m..png
+Captura de pantalla 2025-05-20 a la(s) 7.13.30 a.m..png
+Captura de pantalla 2025-08-10 a la(s) 7.36.44 p.m..png
+Captura de pantalla 2025-08-11 a la(s) 8.40.24 p.m..png
+Captura de pantalla 2025-08-24 a la(s) 10.29.58 p.m..png
+Captura de pantalla 2025-08-24 a la(s) 12.08.13 p.m..png
+Captura de pantalla 2025-08-29 a la(s) 6.53.22 p.m..png
+Captura de pantalla 2025-08-31 a la(s) 10.55.00 p.m..png
+Captura de pantalla 2025-09-03 a la(s) 12.42.40 a.m..png
+Captura de pantalla 2025-09-04 a la(s) 2.36.50 p.m..png
+Captura de pantalla 2025-09-06 a la(s) 9.14.02 p.m..png
+Captura de pantalla 2025-09-07 a la(s) 10.39.27 p.m..png
+Captura de pantalla 2025-09-07 a la(s) 9.08.00 p.m..png
+Captura de pantalla 2025-10-01 a la(s) 1.11.15 a.m..png
+Captura de pantalla 2025-10-02 a la(s) 3.19.47 p.m..png
+Captura de pantalla 2025-10-02 a la(s) 3.33.29 p.m..png
+Captura de pantalla 2025-10-06 a la(s) 10.53.39 a.m..png
+Captura de pantalla 2025-10-23 a la(s) 4.25.46 p.m..png
+Captura de pantalla 2025-10-23 a la(s) 4.25.47 p.m..png
+Captura de pantalla 2025-10-27 a la(s) 10.10.58 a.m..png
+Captura de pantalla 2025-11-17 a la(s) 10.15.29 p.m..png
+Captura de pantalla 2025-11-18 a la(s) 9.53.34 a.m..png
+Captura de pantalla 2025-11-24 a la(s) 9.22.54 a.m..png
+Captura de pantalla 2025-12-02 a la(s) 9.10.13 p.m..png
+Captura de pantalla 2025-12-12 a la(s) 2.54.38 a.m..png
+Captura de pantalla 2026-01-28 a la(s) 2.41.11 p.m..png
+Captura de pantalla 2026-01-28 a la(s) 2.41.16 p.m..png
+Captura de pantalla 2026-01-31 a la(s) 10.52.48 p.m..png
+Captura de pantalla 2026-02-04 a la(s) 9.48.03 p.m..png
+Captura de pantalla 2026-02-05 a la(s) 6.33.37 p.m..png
+Captura de pantalla 2026-02-05 a la(s) 7.12.44 p.m..png
+Captura de pantalla 2026-02-11 a la(s) 7.53.33 a.m..png
+Captura de pantalla 2026-02-11 a la(s) 7.53.51 a.m..png
+Captura de pantalla 2026-02-16 a la(s) 6.01.59 p.m..png
+Captura de pantalla 2026-02-25 a la(s) 11.54.00 a.m..png
+Desarrollo de App
+DOCUMENTACIÓN
+Examen Arq Comp Primera Parte1.pdf
+Examen1Agus.ipynb
+Grabación de pantalla 2025-08-20 a la(s) 1.07.40 a.m..mov
+Grabación de pantalla 2025-08-31 a la(s) 9.59.55 p.m..mov
+Grabación de pantalla 2025-10-23 a la(s) 4.29.01 p.m..mov
+Grabación de pantalla 2026-02-17 a la(s) 3.15.58 p.m..mov
+Grabación de pantalla 2026-02-17 a la(s) 3.34.43 p.m..mov
+Grabación de pantalla 2026-02-18 a la(s) 9.06.18 p.m..mov
+HORARIO 2026.pdf
+Horario Ago-Dic 2025.pdf
+INTELIGENCIA ARTIFICIAL
+Intro a Base de Datos
+PDI
+POO
+Programacion Orientada a Objetos
+Sistemas Operativos
+Tareas ADA
+UP HORARIO.timetable
+XCode
+       0
