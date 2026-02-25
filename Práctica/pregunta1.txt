@@ -1,0 +1,4 @@
+Primero el comando cd /etc cambia el directorio actual al directorio /etc, que es donde se encuentran archivos de configuración del sistema en Linux.
+Después ls lista los archivos y directorios dentro de /etc.
+El símbolo | (pipe) envía la salida del comando ls como entrada al siguiente comando.
+Finalmente grep cron busca dentro de esa lista los nombres que contengan la palabra “cron”.
