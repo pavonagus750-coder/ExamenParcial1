@@ -1,0 +1,3 @@
+Primero el comando echo imprime el texto que está entre comillas, en este caso alias code=codium.
+El operador >> sirve para agregar ese texto al final de un archivo sin borrar lo que ya tenía.
+El archivo .bashrc es un archivo de configuración del shell que se ejecuta cada vez que se abre la terminal.
