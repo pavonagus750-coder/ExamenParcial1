@@ -1,0 +1,5 @@
+Primero echo $PATH muestra el contenido actual de la variable de entorno PATH.
+La variable PATH contiene las rutas donde el sistema busca los programas ejecutables cuando se escribe un comando en la terminal.
+El punto y coma ; permite ejecutar dos comandos en la misma línea, uno después del otro.
+Después export PATH=/usr/bin/vim:$PATH modifica la variable PATH agregando la ruta /usr/bin/vim al inicio.
+Esto significa que el sistema buscará primero en esa ruta antes que en las demás cuando se ejecute un comando.
